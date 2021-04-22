@@ -1,0 +1,52 @@
+*{
+	box-sizing: border-box;	
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: white;
+}
+.cajapadre1{
+	display: flex;
+	justify-content: flex-start;
+}
+.cajalogo{
+	display: flex;
+}
+.cajaluna{
+	display: flex;
+	justify-content: flex-end;
+}
+.cajatexto2{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+.cnegra{
+	display: flex;
+	justify-content: center;
+	background-color: black;
+	height: 10rem;
+}
+.cajaroja{
+	width: 100%;
+	height: 100%;
+}
+.cajanaranja{
+	width: 100%;
+	height: 100%;
+}
+.cajavioleta{
+	width: 100%;
+	height: 100%;
+}
+.cajaverdeosc{
+	width: 100%;
+	height:100%;
+}
+.margen{
+	padding: 1rem
+}
+h1, p{
+	color: white
+}
